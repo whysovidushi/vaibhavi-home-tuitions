@@ -1,0 +1,11 @@
+{
+  "name": "Vaibhavi Home Tuitions",
+  "short_name": "Vaibhavi Tuitions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#16233a",
+  "icons": [
+    { "src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
